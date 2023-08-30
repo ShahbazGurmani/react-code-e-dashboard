@@ -25,73 +25,18 @@
 .register{
   margin-left: 30%; 
 }
-.login{
-  margin-left: 30%; 
-}
-.loginInputbox{
-  display: block;
-  padding: 10px;
-  margin: 10px;
-  width: 300px;
-  border-color: skyblue;
-}
 .inputBox{
   display: block;
     padding: 10px;
     margin: 10px;
-    width: 300px;
     border-color: skyblue;
 }
 .button{
-  margin: 15px;
+  margin: 25px;
     padding: 10px;
     width: 140px;
     background-color: skyblue;
     cursor: pointer;
-}
-.nav-right{
-  text-align: right;
-}
-.logo{
-  width: 35px;
-    float: left;
-    border-radius: 50%;
-    margin: 4px;
-    margin-left: 5px;
-}
-.error
-{
-  color: red;
-    margin-top: -12px;
-    display: block;
-    margin-left: 10px;
-}
-.product-list
-{
-  text-align: center;
-  margin-top: 50px;
-}
-.product-list ul {
-  margin: 0px;
-}
-.product-list ul li{
-  display: inline-block;
-  border: 1px solid skyblue;
-  padding: 5px;
-  width: 150px;
-}
-.product-list-li{
-  font-size: large;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-weight: bold;
-
-}
-.search{
-  margin: 20px;
-    height: 35px;
-    width: 400px;
-    border-radius: 20px;
-    padding-left: 10px;
 }
 
 

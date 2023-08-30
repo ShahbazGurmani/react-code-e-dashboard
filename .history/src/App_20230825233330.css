@@ -86,13 +86,6 @@
   font-weight: bold;
 
 }
-.search{
-  margin: 20px;
-    height: 35px;
-    width: 400px;
-    border-radius: 20px;
-    padding-left: 10px;
-}
 
 
 @media (prefers-reduced-motion: no-preference) {
